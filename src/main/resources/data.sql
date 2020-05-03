@@ -1,0 +1,13 @@
+--
+--CREATE TABLE testtable(
+--id              SERIAL PRIMARY KEY,
+--name           VARCHAR(100) NOT NULL
+--);
+--
+--INSERT INTO testtable (name) values ('Cars');
+--INSERT INTO testtable (name) values ('Planes');
+--INSERT INTO testtable (name) values ('Busses');
+--INSERT INTO testtable (name) values ('Trucks');
+
+--insert into employees values (17890,'tmi@g.com','ooo','j');
+--insert into employees values (1101,'tm@g.com','olllllo','kkkkj');
